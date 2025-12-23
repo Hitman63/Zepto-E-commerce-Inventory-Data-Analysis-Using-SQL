@@ -1,0 +1,3 @@
+# Zepto-E-commerce-Inventory-Data-Analysis-Using-SQL
+
+This project is a real-world SQL data analysis case study based on an e-commerce inventory dataset from Zepto, sourced via Kaggle and originally scraped from public product listings. The dataset represents real catalog complexity, with each row as a unique SKU, including variations in size, pricing, discounts, and categories. The analysis simulates an end-to-end analyst workflow, covering database setup, exploratory data analysis (EDA), data cleaning, and business-driven SQL queries to generate insights on pricing, inventory availability, and category performance, demonstrating practical SQL and e-commerce analytics
